@@ -1,7 +1,8 @@
 # Isotopes-MixPolySim
 This script does a Monte Carlo geometry test for stable isotope mixing models. It implements the convex‐hull **mixing polygon simulation** described in:
 
-Smith et al. (2013) *To fit or not to fit: evaluating stable isotope mixing models using simulated mixing polygons*. Methods in Ecology and Evolution.
+**Smith et al. (2013)** *To fit or not to fit: evaluating stable isotope mixing models using simulated mixing polygons*. Methods in Ecology and Evolution.
+https://doi.org/10.1111/2041-210X.12048
 
 The user runs the **MixPolySim_2iso_1.3.r** code, which will load the function from MixPolySim_2iso_1.3_Function.r.
 
