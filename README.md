@@ -154,7 +154,7 @@ Always report:
 
 Polygon area is computed using the **shoelace formula**.
 
-For convex hull polygons (non-self-intersecting), this yields the same planar area as `splancs::areapl()`, up to numerical precision.
+For convex hull polygons (non-self-intersecting), this yields the same planar area as `splancs::areapl()` which was used previously.
 
 ---
 
