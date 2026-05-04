@@ -85,7 +85,7 @@ A common heuristic threshold:
 
 * **< 0.05** → consumer likely outside mixing space
 
-This threshold is not universal — justify it in your study context.
+This threshold is not universal - justify it in your study context.
 
 ---
 
@@ -139,7 +139,7 @@ Recommended reading:
 The function includes a `seed` argument:
 
 ```r
-results <- mix_poly_sim(sources, mixture, TEF, its = 1500, seed = 42)
+results <- mix_poly_sim(sources, mixture, TEF, its = 1500, seed = 117)
 ```
 
 Always report:
